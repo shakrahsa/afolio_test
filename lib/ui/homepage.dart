@@ -24,6 +24,7 @@ class _HomePageState extends State<HomePage> {
       ),
       drawer: DrawerPage(),
       body: MarketsView(),
+      // Test Comment
     );
   }
 }
